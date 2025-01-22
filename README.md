@@ -1,0 +1,1 @@
+# fastapi_directory_structure
